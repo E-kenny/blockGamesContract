@@ -1,6 +1,6 @@
 {
 	"compiler": {
-		"version": "0.8.7+commit.e28d00a7"
+		"version": "0.8.12+commit.f00d7308"
 	},
 	"language": "Solidity",
 	"output": {
@@ -60,11 +60,11 @@
 	},
 	"sources": {
 		"BlockGamesContract.sol": {
-			"keccak256": "0xa9ff2d52902bae8474d82a61fa4b8c3a11731df32fdf2e8c0f277e72e97db4f0",
+			"keccak256": "0xed503200326fee6db1a5ff51d2a4b7e22c1cdd146b4286e0dfff628610a400ba",
 			"license": "GPL-3.0",
 			"urls": [
-				"bzz-raw://ea82cc91c6191f1950fb14efc786e18fd1f0a61fc40155ecd03b7aa2aa8e435b",
-				"dweb:/ipfs/QmWuB3eit6HBeXYoSazRuzdq99GuwPwyP5szW82h5DPgu1"
+				"bzz-raw://5c22a7837a651d0023e4ce5633f4e7e5c42289ac6f2510c8ae721cb733959725",
+				"dweb:/ipfs/QmQC17hcZVw9AoTfUJ36JhgUESTRD51XeHCEy9gV1yduTu"
 			]
 		}
 	},
