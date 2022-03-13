@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: GPL-3.0
 pragma solidity ^0.8.10;
 
-contract HelloWorld {
+contract helloWorld {
     uint storedData;
 
     function set(uint x) public {

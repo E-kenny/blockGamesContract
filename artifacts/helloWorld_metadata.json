@@ -1,0 +1,72 @@
+{
+	"compiler": {
+		"version": "0.8.12+commit.f00d7308"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "get",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "x",
+						"type": "uint256"
+					}
+				],
+				"name": "set",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"BlockGamesContract.sol": "helloWorld"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"BlockGamesContract.sol": {
+			"keccak256": "0xd8891442f2226bad270b2d707229d809e4bde34b9e3870f1282dd9aa6ec97165",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://d94cc2bf3c8dec4af3412114baa3ffb3521e84acf7e21c912a02fa2a3a38f434",
+				"dweb:/ipfs/QmPgsnhSANZ8PdYqkCjHarLbLKnUMVtNJA6hoBoUzEX7tP"
+			]
+		}
+	},
+	"version": 1
+}
